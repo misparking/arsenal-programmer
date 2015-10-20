@@ -3,7 +3,9 @@ If you are a programmer,you need to take the weapons for you to carry on.
 
 
 科技网站：
+
 国内：
+
 http://tech.qq.com/
 
 http://it.sohu.com/
@@ -105,6 +107,12 @@ https://www.kickstarter.com
 
 https://www.indiegogo.com
 
-
+代码网站：
 
 http://grepcode.com/
+
+设计网站：
+
+http://www.ui.cn
+
+http://www.dribbble.com
