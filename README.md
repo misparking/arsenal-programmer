@@ -125,3 +125,6 @@ http://littlebigdetails.com
 http://h2o.ai/
 
 http://www.tensorflow.org
+
+
+https://www.instra.com/
