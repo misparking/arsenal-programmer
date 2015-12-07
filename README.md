@@ -216,3 +216,6 @@ UED6 http://www.ued6.com/
 交互设计专业委员会 http://ixdc.org/
 深圳体验设计专业委员会 http://www.uxdc.org/
 
+
+http://blog.stablekernel.com/
+
