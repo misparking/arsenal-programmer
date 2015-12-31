@@ -215,6 +215,7 @@ UED6 http://www.ued6.com/
 莲娜用户体验研究日志 http://lyna.us/
 交互设计专业委员会 http://ixdc.org/
 深圳体验设计专业委员会 http://www.uxdc.org/
+http://www.uisdc.com/
 
 
 http://blog.stablekernel.com/
@@ -224,3 +225,5 @@ http://www.zhangqiang.cc/
 http://forvo.com/
 
 http://www.pronouncenames.com
+
+
