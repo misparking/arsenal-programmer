@@ -230,7 +230,7 @@ http://www.pronouncenames.com
 
 1.codeKK
 
-http://p.codekk.com/
+http://p.codekk.com/    
 这是一个开源项目自动搜集、方便快速浏览和中英文搜索的网站，目前已经收集了 1000+ Android 开源项目。
 (1) 按日期以卡片形式显示
 随时了解最新开源项目，包含项目简介，体验比 GitHub Timeline 更好。
